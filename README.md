@@ -2,5 +2,8 @@
 This is an discord nuker, it deletes all channels.
 (!) It cant delete the community channels.
 
-Permissions:
+# Permissions:
 The easyest would be, if you give the bot administrator.
+
+# Packages needed:
+Discord.js v13
